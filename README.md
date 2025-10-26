@@ -43,17 +43,17 @@ npm run dev
 # ou
 yarn dev
 
-📬 Contribuições
+## 📬 Contribuições
 
 Como este é um projeto social, contribuições são bem-vindas!
 Basta abrir uma issue ou enviar um pull request.
 
-⚖️ Licença
+## ⚖️ Licença
 
 Este projeto está licenciado sob a MIT License. Veja LICENSE
  para mais detalhes.
 
-❤️ Créditos
+## ❤️ Créditos
 
 Desenvolvido por Andre Luiz
 
